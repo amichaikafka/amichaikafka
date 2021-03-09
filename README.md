@@ -8,6 +8,7 @@
  <a href="https://www.linkedin.com/in/amichai-kafka-852399207/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amichaikafka&show_icons=true&theme=radical&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amichaikafka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
